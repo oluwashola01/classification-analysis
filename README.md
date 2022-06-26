@@ -1,5 +1,5 @@
 <h2>Introduction</h2>
-<p>This report summarizes the analysis work done on the classification_40 dataset for State Farm.</p>
+<p>This report summarizes the analysis work done on the classification analysis of highly imbalanced dataset using three different techniques.</p>
 <h2>Objectives</h2>
 <p>To build two different models using Logistic regression and a non-glm model to correctly classify and predict if an observation belongs to the positive class (labeled 1).</p>
 <h2>Strategy</h2>
